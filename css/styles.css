@@ -246,6 +246,7 @@ img {
 }
 /* #endregion-operating */
 /* #region-team */
+
 .team-title {
   font-size: 36px;
   line-height: 1.11;
@@ -277,7 +278,7 @@ img {
 }
 
 .team-section {
-  background-color: #fff;
+  background-color: #f4f4fd;
   padding: 120px 0 120px;
 }
 .team-item-container {
@@ -307,9 +308,6 @@ img {
 }
 .social-link-item-icon {
   fill: #f4f4fd;
-}
-.social-link-list-item {
-  margin: 0 auto;
 }
 /* #endregion-team */
 /* #region-portfolio */
@@ -384,12 +382,10 @@ img {
 .footer-section {
   background-color: #2e2f42;
   padding: 100px 0;
-  max-width: 1440px;
-  margin: auto;
 }
+
 .footer-contain {
   display: flex;
-  margin-left: 156px;
   align-items: baseline;
 }
 .container-logo-footer {
